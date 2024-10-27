@@ -10,8 +10,9 @@ The Skin Disease Diagnosis app assists in identifying common skin conditions by 
 
 ---
 
-### 📹 Demo Video
-[![Watch the video](https://youtu.be/rSNJz9aGHHs)
+### 📹 Demo Video  
+[![Watch the Demo](https://img.youtube.com/vi/rSNJz9aGHHs/maxresdefault.jpg)](https://www.youtube.com/watch?v=rSNJz9aGHHs)
+
 
 ---
 
