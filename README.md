@@ -11,7 +11,7 @@ The Skin Disease Diagnosis app assists in identifying common skin conditions by 
 ---
 
 ### 📹 Demo Video
-[![Watch the video](https://github.com/youssef13494/Skin_App/blob/main/WhatsApp%20Video%202024-07-05%20at%208.19.09%20PM.mp4)
+[![Watch the video](https://youtu.be/rSNJz9aGHHs)
 
 ---
 
